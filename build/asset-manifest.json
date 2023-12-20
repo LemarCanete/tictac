@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tictac/static/css/main.bada8e04.css",
+    "main.js": "/tictac/static/js/main.64eecbec.js",
+    "static/media/logo.gif": "/tictac/static/media/logo.db90b8739633cae3d435.gif",
+    "index.html": "/tictac/index.html",
+    "main.bada8e04.css.map": "/tictac/static/css/main.bada8e04.css.map",
+    "main.64eecbec.js.map": "/tictac/static/js/main.64eecbec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bada8e04.css",
+    "static/js/main.64eecbec.js"
+  ]
+}
